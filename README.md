@@ -1,1 +1,1 @@
-# QuickShoop
+#### Quick Shoop: A sleek and modern e-commerce application that balances simplicity with elegance. Crafted using HTML, CSS, and JavaScript, this platform delivers an intuitive shopping experience, showcasing a user-friendly interface and responsive design.
